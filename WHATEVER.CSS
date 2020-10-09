@@ -1,0 +1,51 @@
+.navbar
+{
+    text-align: right;
+
+}
+
+.Joomail
+{
+    margin-right: 25px;
+    color: green;
+}
+
+.Jallery
+{
+    margin-right: 25px;
+    color: green;
+}
+
+.Signin
+{
+    width: 80px;
+    
+    font-size: 17px;
+    cursor: pointer;
+    background-color: #0c7403;
+    color: black; 
+    height: 25px;
+}
+.Signin:hover 
+{
+    background-color: #4CAF50;
+    color: white;
+}
+
+.Logo
+{
+    margin-top: 250px;
+}
+
+input[name="Searchbar"]
+{ 
+    margin-top: 20px;
+    width:300px; 
+    height:25px; 
+}
+
+.JoojleSearch
+{
+    margin-top: 5px;
+    margin-right: 20px;
+}
